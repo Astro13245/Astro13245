@@ -2,7 +2,7 @@
 <p>👀 I’m interested in All programming languages. I know HTML, Javascript, and Python<br>
 🌱 I’m currently learning SQL, CSS, C#, and Ruby<br>
 💞️ I’m looking to collaborate on nothing at the moment<br>
-  📫 How to reach me on <b>reddit: u/Endl4ss_</b> and <b>Email: Panstotoday@Hotmail.com</b></p>
+  📫 How to reach me on <b>reddit: <a href:"https://www.reddit.com/user/Endl4ss_"u/Endl4ss_</a></b> and <b>Email: Panstotoday@Hotmail.com</b></p>
 
 <!---
 Astro13245/Astro13245 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
